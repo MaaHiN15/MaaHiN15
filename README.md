@@ -67,11 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
 
-<h3 align="left">My Stats :</h3>
-
-###
 
 
 <img src="https://raw.githubusercontent.com/MaaHiN15/MaaHiN15/output/snake.svg" alt="Snake animation" />
